@@ -1,0 +1,15 @@
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\bin\Debug\Session5.exe.config
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\bin\Debug\Session5.exe
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\bin\Debug\Session5.pdb
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\ListViewPeople.csprojAssemblyReference.cache
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\App.g.cs
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\Session5_MarkupCompile.cache
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\Session5_MarkupCompile.lref
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\Session5.g.resources
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\Session5.Properties.Resources.resources
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\ListViewPeople.csproj.GenerateResource.cache
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\ListViewPeople.csproj.CoreCompileInputs.cache
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\Session5.exe
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\Session5.pdb
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\TodoList.g.cs
+C:\John Abbott IPD 22\C# 2\session 5 - douglas\Session5\Session5\obj\Debug\TodoList.baml
